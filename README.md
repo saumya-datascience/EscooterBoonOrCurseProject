@@ -1,6 +1,6 @@
 # E-scooters: The Good, The Bad, and The Ugly
 ## Project Outline
-Explore US and Europe e-scooter businesses to understand the correlations between the usage of the Edevices with city demographics, lawsuits, regulations (helmets and age limit),rate of injuries and popularity . Using accessible data on e-scooters, we would like to understand the pros and cons of e-scooters in order to form an educated opinion on whether e-scooters should be banned or expanded and the types of regulations that should be recommended.
+Explore US and Europe e-scooter businesses to understand the correlations between the usage of the E Mobility devices with city demographics, lawsuits, regulations (helmets and age limit),rate of injuries and popularity . Using accessible data on e-scooters, we would like to understand the pros and cons of e-scooters in order to form an educated opinion on whether e-scooters should be banned or expanded and the types of regulations that should be recommended.
 
 ## Table of Cotents
 * [Questions](https://github.com/adriana-icasiano/project-1#Our-Questions)
