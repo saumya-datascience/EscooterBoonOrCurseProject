@@ -20,12 +20,7 @@ Explore US and Europe e-scooter businesses to understand the correlations betwee
 * [Findings](https://github.com/adriana-icasiano/project-1#Injuries)
 * [Conclusion](https://github.com/adriana-icasiano/project-1#Conclusion)
 
-## Team
-1) Harlan Brasek <br>
-2) Adriana Icasiano <br>
-3) Emily Leniart<br>
-4) Saumya Pandey<br>
-5) Rasaq Sule-Odu<br>
+
 
 ## Our Questions
 
