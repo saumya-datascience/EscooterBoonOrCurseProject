@@ -1,0 +1,4 @@
+Null Hypothesis: Injuries due to alcohol and or drug have not been proven to be the reason behind Electric Scooter injuries.
+
+Alternative Hypothesis: Injuries involving alcohol and/or drugs are the reason behind Electric Scooter injuries.
+
