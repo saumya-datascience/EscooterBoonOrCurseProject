@@ -3,8 +3,7 @@
 Explore US and Europe e-scooter businesses to understand the correlations between rate of injuries, city demographic, lawsuits, regulations (helmets and age limit) and popularity. Using accessible data on e-scooters, we would like to understand the pros and cons of e-scooters in order to form an educated opinion on whether e-scooters should be banned or expanded and the types of regulations that should be recommended.
 
 ## Table of Cotents
-* [Team](https://github.com/adriana-icasiano/project-1#Team)
-* [Our Questions](https://github.com/adriana-icasiano/project-1#Our-Questions)
+* [Questions](https://github.com/adriana-icasiano/project-1#Our-Questions)
 * [Workflow](https://github.com/adriana-icasiano/project-1#Workflow)
 * [Data Sources](https://github.com/adriana-icasiano/project-1#Data-sources)
 * [Data Exploration](https://github.com/adriana-icasiano/project-1#Data-Exploration)
